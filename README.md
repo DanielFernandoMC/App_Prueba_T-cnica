@@ -76,7 +76,7 @@ Modelos de serie de tiempo (Holt-Winters) para pronósticos de saldo
 
 El dashboard puede ser extendido para incluir validación de alertas, conexiones en tiempo real a bases de datos y automatización de reportes periódicos.
 
-### URL de la App (Ejemplo Local): http://localhost:8501/
+### URL de la App: http://localhost:8501/
 ### Contacto: danielmanosalva951117@hotmail.com
 
 #### Este proyecto representa una solución integral para el monitoreo de información financiera crítica, permitiendo a la organización anticiparse a riesgos, detectar oportunidades y tomar decisiones basadas en evidencia.
