@@ -1,4 +1,4 @@
-# App_Prueba_T-cnica
+# App_Prueba_Técnica_Bancolombia
 Prueba técnica para vacante de Analista de Datos II.
 README - Dashboard Ejecutivo de Movimientos y Saldos Bancarios
 
