@@ -1,5 +1,5 @@
-# App_Prueba_Técnica_Bancolombia
-Prueba técnica para vacante de Analista de Datos II.
+# App Prueba Técnica Bancolombia
+## Prueba técnica para vacante de Analista de Datos II.
 README - Dashboard Ejecutivo de Movimientos y Saldos Bancarios
 
 Nombre del Proyecto: Dashboard Ejecutivo - Análisis de Movimientos y Saldos Bancolombia 
